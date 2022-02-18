@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/claimant-page/static/css/main.b49eda67.css",
+    "main.js": "/claimant-page/static/js/main.4223491a.js",
+    "index.html": "/claimant-page/index.html",
+    "main.b49eda67.css.map": "/claimant-page/static/css/main.b49eda67.css.map",
+    "main.4223491a.js.map": "/claimant-page/static/js/main.4223491a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b49eda67.css",
+    "static/js/main.4223491a.js"
+  ]
+}
